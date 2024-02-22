@@ -3,12 +3,12 @@
 
 @font-face {
 	font-family: 'Magnies';
-	src: url('fonts/Magnies.ttf') format('truetype');
+	src: url('../fonts/Magnies.ttf') format('truetype');
 }
 
 @font-face {
-	font-family: 'Magnies';
-	src: url('fonts/Balgor.ttf') format('truetype');
+	font-family: 'Balgor';
+	src: url('../fonts/Balgor.ttf') format('truetype');
 }
 
 html, body, div, span, applet, object, iframe,
